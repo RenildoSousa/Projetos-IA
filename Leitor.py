@@ -1,4 +1,5 @@
 import speech_recognition as sr
+from fuzzywuzzy import fuzz, process
 
 
 def ouvir_microfone():
@@ -30,3 +31,14 @@ def ler_arquivo_audio():
         arquivo = audio.record(source)
 
         print(audio.recognize_google(arquivo, language='pt-BR'))
+
+
+def ver_texto_similar_fuzzy():
+    print("Resultado para apenas uma palavra parcialmente")
+    print("==============================================")
+    print("Similaridade de:", fuzz.ratio('Renildo', 'Renild'), '\n')
+
+    lista = ['João carlos', 'joão batista', 'Renildo Sousa Vale']
+    print('Resultado para apenas uma lista parcialmente')
+    print("==============================================")
+    print("Similaridade de:", process.extract('Renildo', lista, scorer=fuzz.ratio))
