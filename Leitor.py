@@ -1,3 +1,4 @@
+import nltk
 import speech_recognition as sr
 from fuzzywuzzy import fuzz, process
 
@@ -42,3 +43,10 @@ def ver_texto_similar_fuzzy():
     print('Resultado para apenas uma lista parcialmente')
     print("==============================================")
     print("Similaridade de:", process.extract('Renildo', lista, scorer=fuzz.ratio))
+
+
+def nltk_teste1():
+    texto = "Graças a um guia prático que apresenta os fundamentos da programação juntamente com tópicos de linguística computacional, além da documentação API abrangente, o NLTK é adequado para linguistas, engenheiros, estudantes, educadores, pesquisadores e usuários da indústria. NLTK está disponível para Windows, Mac OS X e Linux. O melhor de tudo é que o NLTK é um projeto gratuito, de código aberto e voltado para a comunidade"
+
+    simbolos = nltk.wordpunct_tokenize(texto)
+    print(simbolos)
