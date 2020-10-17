@@ -1,0 +1,160 @@
+CURSO SUPERIOR DE TECNOLOGIA EM
+ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+Ementário
+1o PERÍODO
+Disciplina: Lógica para Programação
+EMENTA
+Representação do pensamento lógico. Fundamentos de algoritmos. Variáveis e constantes.
+Programação estruturada. Estruturas de seleção e repetição.
+Disciplina: Computação Básica
+EMENTA
+História da computação. Componentes básicos do computador. Sistemas posicionais de
+numeração. Operações aritméticas no sistema binário de numeração. Classificação de
+software. Noções básicas de redes de computadores e banco de dados. Profissões na área de
+informática
+Disciplina: Informática e Sociedade
+EMENTA
+Fundamentos de sociologia. Impactos da Informática sobre a Sociedade. Mercado de trabalho
+e a situação atual da informatização da sociedade brasileira nos seus vários setores. O
+profissional de informática e a ética profissional. O futuro da Informática e da Sociedade.
+Disciplina: Algoritmos e Programação
+EMENTA
+Programação em Linguagem C. Estruturas de dados homogêneas e heterogêneas.
+Modularização de Algoritmos.
+Disciplina: Matemática para Computação
+EMENTA
+Teoria dos conjuntos (diagramas de Euler-Venn). Análise e simbolização de sentenças de
+linguagem cotidiana. Tabela verdade. Lógica de predicados de primeira ordem. Álgebra
+Booleana. Simplificação de funções e mapas de Karnaugh.
+Disciplina: Fundamentos de Sistemas de Informação
+EMENTA
+Teoria geral de sistemas. Conceitos e elementos dos Sistemas de Informação. Tipologia de
+sistemas de informação. Tomada de decisão. Sistemas de informação e o processo decisório.
+Informação operacional e gerencial.
+2o PERÍODO
+Disciplina: Estruturas de Dados
+EMENTA
+Estruturas de dados com alocação de memória seqüencial e encadeada (pilha, fila e listas
+ordenadas). Métodos de ordenação e pesquisa.
+Disciplina: Sistemas Operacionais
+EMENTACURSO SUPERIOR DE TECNOLOGIA EM
+ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+Histórico e evolução dos sistemas operacionais. Gerenciamento de processos. Gerenciamento
+de memória. Gerenciamento de dispositivos periféricos. Gerenciamento de arquivos.
+Disciplina: Administração Empresarial
+EMENTA
+Introdução à administração. A empresa e a natureza e desafios atuais da administração. Visão
+histórica da administração. O ambiente das organizações. Fundamentos de planejamento,
+organização, direção e controle.
+Disciplina: Programação
+EMENTA
+Conceitos de programação voltados para o paradigma da orientação a objetos. Introdução à
+linguagem Java.
+Disciplina: Banco de Dados
+EMENTA
+Noções de banco de dados. Sistemas gerenciadores de bancos de dados. Normalização. O
+modelo relacional. Linguagem de consulta SQL.
+Disciplina: Organização, Sistemas e Métodos
+EMENTA
+O conceito e as tipologias de estrutura organizacional. Análise estrutural e requisitos de
+informação. Conceito e gestão de processos de negócio. Metodologias, técnicas e ferramentas
+de mapeamento e melhoria de processos. Requisitos de informação para a gestão de
+processos de negócio.
+Disciplina: Prática em Programação de Sistemas
+EMENTA
+Interpretação do enunciado de um problema ou necessidade. Construção dos algoritmos.
+Implementação em linguagem de programação C ou Java.
+3o PERÍODO
+Disciplina: Estruturas de Dados
+EMENTA
+Árvore binária. Organização de arquivos (sequencial, sequencial indexado, índices).
+Compressão de dados. Introdução a grafos.
+Disciplina: Banco de Dados
+EMENTA
+Projeto de banco de dados relacional. Transações. Controle de concorrência. Sistema de
+recuperação. Banco de dados distribuídos.
+Disciplina: Engenharia de Software
+EMENTA
+Introdução à engenharia de software. Processo de desenvolvimento de software. Padrões de
+projeto de software (design pattern). Requisitos de software. Análise orientada a objetos.
+Projeto orientado a objetos.
+Disciplina: Redes de Computadores
+EMENTA
+Introdução às redes de computadores. Camada física. Camada de enlace. Camada de rede.
+Camada de transporte. Camada de aplicação. Arquitetura TCP/IP.CURSO SUPERIOR DE TECNOLOGIA EM
+ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+Disciplina: Sistemas Empresariais
+EMENTA
+A organização e os sistemas de gestão empresarial. Processo decisório organizacional.
+Sistemas de suporte a operações. Sistemas de suporte ao conhecimento. Sistemas de suporte
+gerencial.
+Disciplina: Programação
+EMENTA
+Programação visual Java. Integração básica com banco de dados.
+4o PERÍODO
+Disciplina: Estatística
+EMENTA
+Conceito e objetivos da estatística. Estatística descritiva. Amostragem e distribuições
+amostrais. Teoria da estimação e testes de hipóteses. Regressão linear simples. Correlação.
+Análise de variância.
+Disciplina: Engenharia de Software
+EMENTA
+Proposta de especificação de software. Especificação dos requisitos de software com UML
+(Unified Modeling Language). Descrição do desenho de software com UML.
+Disciplina: Redes de Computadores
+EMENTA
+Planejamento e gerência de infra-estrutura. Áreas funcionais de gerência das redes de
+computadores. Mecanismos de segurança para redes conectadas à Internet: firewall, proxy e
+detector de intrusos.
+Disciplina: Engenharia de Usabilidade
+EMENTA
+Introdução à interface homem-computador. Perspectiva da análise. Perspectiva da síntese.
+Perspectiva da avaliação. Visão geral do ciclo da engenharia de usabilidade. Interfaces
+especializadas.
+Disciplina: Inteligência Artificial
+EMENTA
+Introdução à inteligência artificial. Redes neurais. Algoritmos genéticos. Data mining. Agentes
+inteligentes.
+Disciplina: Programação
+EMENTA
+Programação web com J2EE. Programação em camadas. Utilização de frameworks.
+Disciplina: Prática em Análise e Projeto de Sistemas
+EMENTA
+Delimitação de um estudo de caso em sistema de informação. Modelagem de processos e de
+dados da aplicação.
+5o PERÍODOCURSO SUPERIOR DE TECNOLOGIA EM
+ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+Disciplina: Gestão da Qualidade de Software
+EMENTA
+Histórico e conceito de qualidade de software. Métricas de qualidade de software. Normas de
+qualidade de software. Técnicas de garantia da qualidade de software. Modelos de melhoria do
+processo de software. Planejamento de sistemas de qualidade de software.
+Disciplina: Programação para dispositivos móveis
+EMENTA
+Fundamentos da computação móvel. Interface gráfica. Armazenamento de Dados.
+Desenvolvimento de aplicações com J2ME
+Disciplina: Empreendedorismo
+EMENTA
+Fundamentos e conceitos de empreendedorismo. Perfil e características do empreendedor.
+Análise de oportunidades de negócio. Análise de mercado. O processo visionário: inovação e
+criatividade. Plano de negócio.
+Disciplina: Gerência de Projetos de Software
+EMENTA
+Conceito e objetivos da gestão de projetos. Abertura e definição do escopo de um projeto.
+Planejamento de um projeto. Execução, acompanhamento e controle de um projeto. Revisão e
+avaliação de um projeto. Fechamento de um projeto. Metodologias, técnicas e ferramentas da
+gerência de projetos. Modelo de gerenciamento de projeto do Project Management Institute.
+Disciplina: Segurança e Auditoria de Sistemas
+EMENTA
+Tipos de ameaças, riscos e vulnerabilidades dos sistemas de informação. Conceito e objetivos
+da segurança de informações. Planejamento, implantação e avaliação de políticas de
+segurança. Conceito e objetivos da auditoria de sistemas. O planejamento, implementação e
+avaliação de auditorias de sistemas de informação.
+Disciplina: Interoperabilidade de Aplicações
+EMENTA
+Visão geral de interoperabilidade. XML (eXtensible Markup Language): arquitetura, bibliotecas
+e uso prático. Web services: arquitetura, implementações e uso prático. Repositórios UDDI
+(Universal Discovery, Description and Integration): arquitetura, implementações e uso prático.
+Disciplina: Prática em Desenvolvimento de Sistemas
+EMENTA
+Análise, projeto e implementação de um sistema de informação.

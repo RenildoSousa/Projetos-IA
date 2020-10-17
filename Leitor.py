@@ -1,7 +1,9 @@
 import nltk
+nltk.download('punkt')
 import speech_recognition as sr
 from fuzzywuzzy import fuzz, process
-
+from stop_words import get_stop_words
+from nltk.corpus import stopwords
 
 def ouvir_microfone():
     microfone = sr.Recognizer()
@@ -46,7 +48,8 @@ def ver_texto_similar_fuzzy():
 
 
 def nltk_teste1():
-    texto = "Graças a um guia prático que apresenta os fundamentos da programação juntamente com tópicos de linguística computacional, além da documentação API abrangente, o NLTK é adequado para linguistas, engenheiros, estudantes, educadores, pesquisadores e usuários da indústria. NLTK está disponível para Windows, Mac OS X e Linux. O melhor de tudo é que o NLTK é um projeto gratuito, de código aberto e voltado para a comunidade"
+    arquivo = open('unitins.txt', 'r')
+    texto = arquivo.read()
 
-    simbolos = nltk.wordpunct_tokenize(texto)
+    simbolos = nltk.word_tokenize(texto)
     print(simbolos)
